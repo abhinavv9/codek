@@ -1,0 +1,3 @@
+package snake
+
+func test() {}
